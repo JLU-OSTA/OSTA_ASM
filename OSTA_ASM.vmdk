@@ -1,0 +1,21 @@
+# Disk DescriptorFile
+version=1
+encoding="GBK"
+CID=fffffffe
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="monolithicFlat"
+
+# Extent description
+RW 20480 FLAT "OSTA_ASM-flat.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.geometry.cylinders = "20"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "6a5bc98a7a727996be2f48e5fffffffe"
+ddb.uuid = "60 00 C2 91 58 aa 43 c4-9f 76 f6 eb 27 02 55 77"
+ddb.virtualHWVersion = "12"

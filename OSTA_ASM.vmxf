@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 fe ad 8d c6 12 2a aa-35 50 1c 48 8f 84 47 da</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">OSTA_ASM.vmx</vmxPathName></VM></Foundry>
